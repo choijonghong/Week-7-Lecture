@@ -16,7 +16,6 @@ Week-7-Lecture
 * 모델 구조 (Architecture)
 - 깊은 구조: 5개의 컨볼루션 계층과 3개의 완전 연결 계층, 총 8개의 학습 가능한 계층을 가진 대규모 CNN을 사용했습니다.
 - GPU 병렬 처리: 하나의 GPU 메모리로는 네트워크를 훈련시키기에 너무 커서, 두 개의 GPU에 네트워크를 분산하여 훈련했습니다.
-
 * 훈련 속도 개선
  - ReLU 비선형성 + 효율적인 GPU
  - 오퍼피팅(Overfitting) 방지: Dropout, 데이터증강(Data Augmentation)
@@ -32,5 +31,7 @@ Week-7-Lecture
 
 ### 참고 파일
 
-* 논문1. LLM은 의식을 가질 수 있을까?(Could a Large Language Model be Conscious?)
-* 보고서 1. America’s AI Action Plan
+* 논문1. ImageNet Classification with Deep Convolutional Neural Networks
+* 코드1. CiFAR-10 분류를 위한 CNN 모델
+* 코드해설 1. CiFAR-10 분류를 위한 CNN 모델 해설
+* CNN+합성곱 예시. 
