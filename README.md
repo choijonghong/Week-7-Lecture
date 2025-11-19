@@ -1,7 +1,9 @@
 # Week-7-Lecture
 Week-7-Lecture
 
-### 제목: ImageNet Classification with Deep Convolutional Neural Networks(깊은 컨볼루션 신경망을 사용한 ImageNet 분류)
+### AlexNet은 어떻게 딥러닝의 시대를 열었을까?
+* 논문명: ImageNet Classification with Deep Convolutional Neural Networks(깊은 컨볼루션 신경망을 사용한 ImageNet 분류)
+* AlexNet은 이미지 인식의 판도를 어떻게 뒤집었는가?
 ### 논문배경
 * 객체 인식의 난이도 증가: 현실 세계의 객체들은 변동성이 커서 이를 인식하기 위해서는 훨씬 더 큰 훈련 데이터셋이 필요했음
 * 새로운 대규모 데이터셋 등장: ImageNet 과 같은 수백만 개의 레이블링된 고해상도 이미지를 포함하는 대규모 데이터셋이 등장함.
