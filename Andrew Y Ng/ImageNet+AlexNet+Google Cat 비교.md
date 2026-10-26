@@ -120,4 +120,3 @@ ImageNet (2009): 대규모 이미지 인식 연구의 데이터 기반
 2. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). *ImageNet Classification with Deep Convolutional Neural Networks*. NeurIPS.
 3. Le, Q. V., et al. (2012). *Building High-level Features Using Large Scale Unsupervised Learning*. ICML.
 
-> **자료 구분:** Google Cat의 구조와 수치는 제공된 Le 등(2012) 논문을 바탕으로 정리했다. ImageNet과 AlexNet의 역사·성능은 해당 연구에 관한 일반적인 학술 지식을 보충한 내용이다.
